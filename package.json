@@ -1,0 +1,9 @@
+{
+  "name": "prisma-inconsistent-casing-issue",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "prisma": "^3.10.0"
+  }
+}
