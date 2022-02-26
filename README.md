@@ -1,4 +1,4 @@
-# Prisma Inconsistent Casing in Migrations Issue
+# [Prisma Inconsistent Casing in Migrations Issue](https://github.com/prisma/prisma/issues/12053)
 
 ## Env
 - Microsoft Windows 10
